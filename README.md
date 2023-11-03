@@ -15,7 +15,7 @@ For python we are in the process of building a python package, scASE_py, that is
 
 ## Figures for the paper
 
-A repo with information about how the different figures in the paper were generated (both scripts to generate the underlying data and, in many cases, the code to create the figures themselves) is available [here](https://github.com/seanken/ASE_Plots). It is loosely organized by figure and subfigure.
+A repo with information about how the different figures in the paper were generated (both scripts to generate the underlying data and, in many cases, the code to create the figures themselves) is available [here](https://github.com/seanken/ASE_Plots). It is loosely organized by figure and subfigure. Note as of this writing it still has local paths from our cluster, so won't work out of the box, and instead are meant as a way to share the code for others to repurpose/read.
 
 ## Other repos
 
