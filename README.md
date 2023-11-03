@@ -1,4 +1,4 @@
-# ASE_Central
+# Central repo for allele specific expression related tools
 In order to perform all the analysis tasks we had to perform for our allele specific expression manuscript (link to be added), we had to build many tools, each with it's own repo. This repo is one central location for all of the others.
 
 ## ASE upstream pipelines
@@ -20,4 +20,6 @@ A repo with information about how the different figures in the paper were genera
 ## Other repos
 
 Not built only for this paper, but we also built a QC tool that was used in this analysis (and can be used in any CellRanger experiment) which can be found [here](https://github.com/seanken/CellLevel_QC).
+
+Will add pointers to some repos related to the upstream processing of the long read data as well.
 
