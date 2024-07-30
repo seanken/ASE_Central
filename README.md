@@ -3,7 +3,7 @@ In order to perform all the analysis tasks we had to perform for our allele spec
 
 ## ASE upstream pipelines
 
-In order to perform analysis of our data at the allele specific expression level we had to build a pipeline to extract ASE information from single nuclei data (works with single cell and (some) spatial data as well). This pipeline is available [here](https://github.com/seanken/ASE_pipeline). Note this repo has a more updated version of the pipeline, but the original pipeline used in the paper is also present. The script to extract ASE data from long read data is also available in that repo.
+In order to perform analysis of our data at the allele specific expression level we had to build a pipeline to extract ASE information from single nuclei data (works with single cell and (some) spatial data as well). This pipeline is available [here](https://github.com/seanken/ASE_pipeline). Note this repo has a more updated version of the pipeline, but the original pipeline used in the paper is also present. The script to extract ASE data from long read data (including the pipeline to process the raw MAS-Seq data) is available [here](https://github.com/seanken/ASE_LongRead).
 
 ## Downstream analysis tools
 
